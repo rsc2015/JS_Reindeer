@@ -1,0 +1,1 @@
+[List of Reindeer names with corresponding colors](https://github.com/nashville-software-school/ux-developer-milestones/blob/master/1-the-static-web/learning-materials/JS_REINDEER.md)
